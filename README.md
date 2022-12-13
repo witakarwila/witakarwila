@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @witakarwila, i'm a Backend Engineer
-- 👀 I’m interested in coding, drawing, reading, and many more (well.. just trying keep myself busy)
+- 👀 I’m interested in coding, drawing, reading, and many more (well.. just trying to keep myself busy)
 - 🌱 I’m currently learning Front-end development and creative website
 - 📫 you can reach me at witakarwila28@gmail.com
 
